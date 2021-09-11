@@ -1,0 +1,75 @@
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.deps.json
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.runtimeconfig.json
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.runtimeconfig.dev.json
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Domain.MainModule.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.MainModule.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.MainModule.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Domain.MainModule.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.csprojAssemblyReference.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.csproj.CopyComplete
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.genruntimeconfig.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.csprojAssemblyReference.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.deps.json
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.runtimeconfig.json
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.runtimeconfig.dev.json
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Domain.MainModule.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.MainModule.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.MainModule.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Domain.MainModule.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.csproj.CopyComplete
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.genruntimeconfig.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.deps.json
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.runtimeconfig.json
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.runtimeconfig.dev.json
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Database.Generator.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Domain.MainModule.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.MainModule.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.MainModule.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Domain.MainModule.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.csprojAssemblyReference.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.csproj.CopyComplete
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Database.Generator\obj\Debug\netcoreapp3.1\Database.Generator.genruntimeconfig.cache

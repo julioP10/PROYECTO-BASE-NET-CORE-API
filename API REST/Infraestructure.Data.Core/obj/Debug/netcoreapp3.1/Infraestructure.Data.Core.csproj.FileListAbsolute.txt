@@ -1,0 +1,48 @@
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.deps.json
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.csprojAssemblyReference.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.csproj.CopyComplete
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.deps.json
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.csprojAssemblyReference.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.csproj.CopyComplete
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.deps.json
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Data.Core.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.csprojAssemblyReference.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.csproj.CopyComplete
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Data.Core\obj\Debug\netcoreapp3.1\Infraestructure.Data.Core.pdb

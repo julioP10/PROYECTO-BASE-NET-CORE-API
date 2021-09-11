@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Infraestructure.Crosscutting.Cache/1.0.0": {
+        "runtime": {
+          "Infraestructure.Crosscutting.Cache.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infraestructure.Crosscutting.Cache/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

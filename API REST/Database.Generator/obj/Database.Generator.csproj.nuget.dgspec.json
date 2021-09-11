@@ -1,0 +1,590 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Database.Generator\\Database.Generator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Database.Generator\\Database.Generator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Database.Generator\\Database.Generator.csproj",
+        "projectName": "Database.Generator",
+        "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Database.Generator\\Database.Generator.csproj",
+        "packagesPath": "C:\\Users\\PILLACA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Database.Generator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PILLACA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.MainModule\\Infraestructure.Data.MainModule.csproj": {
+                "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.MainModule\\Infraestructure.Data.MainModule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.Core\\Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.Core\\Domain.Core.csproj",
+        "projectName": "Domain.Core",
+        "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.Core\\Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\PILLACA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PILLACA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting.Resources\\Infraestructure.Crosscutting.Resources.csproj": {
+                "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting.Resources\\Infraestructure.Crosscutting.Resources.csproj"
+              },
+              "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting\\Infraestructure.Crosscutting.csproj": {
+                "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting\\Infraestructure.Crosscutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.MainModule\\Domain.MainModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.MainModule\\Domain.MainModule.csproj",
+        "projectName": "Domain.MainModule",
+        "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.MainModule\\Domain.MainModule.csproj",
+        "packagesPath": "C:\\Users\\PILLACA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.MainModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PILLACA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.Core\\Domain.Core.csproj"
+              },
+              "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting\\Infraestructure.Crosscutting.csproj": {
+                "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting\\Infraestructure.Crosscutting.csproj"
+              },
+              "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.Core\\Infraestructure.Data.Core.csproj": {
+                "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.Core\\Infraestructure.Data.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting.Resources\\Infraestructure.Crosscutting.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting.Resources\\Infraestructure.Crosscutting.Resources.csproj",
+        "projectName": "Infraestructure.Crosscutting.Resources",
+        "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting.Resources\\Infraestructure.Crosscutting.Resources.csproj",
+        "packagesPath": "C:\\Users\\PILLACA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting.Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PILLACA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Localization": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Localization": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting\\Infraestructure.Crosscutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting\\Infraestructure.Crosscutting.csproj",
+        "projectName": "Infraestructure.Crosscutting",
+        "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting\\Infraestructure.Crosscutting.csproj",
+        "packagesPath": "C:\\Users\\PILLACA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PILLACA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting.Resources\\Infraestructure.Crosscutting.Resources.csproj": {
+                "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Crosscutting.Resources\\Infraestructure.Crosscutting.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.3.113.2, )"
+            },
+            "DotLiquid": {
+              "target": "Package",
+              "version": "[2.0.314, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.8, )"
+            },
+            "JsonDiffPatch.Net": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "culqi-dotnet-sdk": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.Core\\Infraestructure.Data.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.Core\\Infraestructure.Data.Core.csproj",
+        "projectName": "Infraestructure.Data.Core",
+        "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.Core\\Infraestructure.Data.Core.csproj",
+        "packagesPath": "C:\\Users\\PILLACA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PILLACA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.Core\\Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.MainModule\\Infraestructure.Data.MainModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.MainModule\\Infraestructure.Data.MainModule.csproj",
+        "projectName": "Infraestructure.Data.MainModule",
+        "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.MainModule\\Infraestructure.Data.MainModule.csproj",
+        "packagesPath": "C:\\Users\\PILLACA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.MainModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PILLACA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.MainModule\\Domain.MainModule.csproj": {
+                "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Domain.MainModule\\Domain.MainModule.csproj"
+              },
+              "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.Core\\Infraestructure.Data.Core.csproj": {
+                "projectPath": "C:\\Users\\PILLACA\\Documents\\UNINDAD D\\MY GITHUB\\PROYECTO-BASE-NET-CORE-API\\API REST\\Infraestructure.Data.Core\\Infraestructure.Data.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "LinqKit.Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.1.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

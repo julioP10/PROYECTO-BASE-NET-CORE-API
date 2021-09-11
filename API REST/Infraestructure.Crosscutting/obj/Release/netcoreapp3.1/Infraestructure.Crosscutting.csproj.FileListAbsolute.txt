@@ -1,0 +1,12 @@
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\bin\Release\netcoreapp3.1\Infraestructure.Crosscutting.deps.json
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\bin\Release\netcoreapp3.1\Infraestructure.Crosscutting.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\bin\Release\netcoreapp3.1\Infraestructure.Crosscutting.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\bin\Release\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\bin\Release\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\obj\Release\netcoreapp3.1\Infraestructure.Crosscutting.csprojAssemblyReference.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\obj\Release\netcoreapp3.1\Infraestructure.Crosscutting.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\obj\Release\netcoreapp3.1\Infraestructure.Crosscutting.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\obj\Release\netcoreapp3.1\Infraestructure.Crosscutting.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\obj\Release\netcoreapp3.1\Infraestructure.Crosscutting.csproj.CopyComplete
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\obj\Release\netcoreapp3.1\Infraestructure.Crosscutting.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting\obj\Release\netcoreapp3.1\Infraestructure.Crosscutting.pdb

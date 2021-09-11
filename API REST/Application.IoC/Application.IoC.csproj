@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.MainModule\Application.MainModule.csproj" />
+    <ProjectReference Include="..\Application.Security\Application.Security.csproj" />
+    <ProjectReference Include="..\Infraestructure.Data.MainModule\Infraestructure.Data.MainModule.csproj" />
+  </ItemGroup>
+
+</Project>

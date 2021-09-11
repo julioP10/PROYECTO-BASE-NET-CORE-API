@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.S3" Version="3.3.113.2" />
+    <PackageReference Include="culqi-dotnet-sdk" Version="1.0.0" />
+    <PackageReference Include="DotLiquid" Version="2.0.314" />
+    <PackageReference Include="Hangfire.Core" Version="1.7.8" />
+    <PackageReference Include="JsonDiffPatch.Net" Version="2.1.0" />
+    <PackageReference Include="MailKit" Version="2.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="NUnit" Version="3.13.2" />
+    <PackageReference Include="RestSharp" Version="106.11.7" />
+    <PackageReference Include="Serilog.AspNetCore" Version="3.2.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\Infraestructure.Crosscutting.Resources\Infraestructure.Crosscutting.Resources.csproj" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="Converters\" />
+    <Folder Include="Settings\" />
+  </ItemGroup>
+
+</Project>

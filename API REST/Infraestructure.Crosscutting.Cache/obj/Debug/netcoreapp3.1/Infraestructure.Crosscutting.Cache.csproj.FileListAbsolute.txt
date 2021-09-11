@@ -1,0 +1,24 @@
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Cache\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.deps.json
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Cache\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Cache\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Cache\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.deps.json
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Cache\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Cache\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Cache\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.deps.json
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Cache\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Cache\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Cache\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Cache.pdb

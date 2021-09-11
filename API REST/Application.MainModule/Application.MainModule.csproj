@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Collection" Version="6.0.0" />
+    <PackageReference Include="AWSSDK.SQS" Version="3.3.102.50" />
+    <PackageReference Include="DotLiquid" Version="2.0.314" />
+    <PackageReference Include="WebPush-NetCore" Version="1.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.Core\Application.Core.csproj" />
+    <ProjectReference Include="..\Application.Dto\Application.Dto.csproj" />
+    <ProjectReference Include="..\Application.Security\Application.Security.csproj" />
+    <ProjectReference Include="..\Domain.MainModule\Domain.MainModule.csproj" />
+    <ProjectReference Include="..\Infraestructure.Crosscutting\Infraestructure.Crosscutting.csproj" />
+    <ProjectReference Include="..\Infraestructure.Data.MainModule\Infraestructure.Data.MainModule.csproj" />
+  </ItemGroup>
+
+</Project>

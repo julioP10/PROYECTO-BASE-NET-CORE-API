@@ -1,0 +1,25 @@
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Resources\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.deps.json
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Resources\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Resources\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\PROYECTOS PARDO\Api\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.csprojAssemblyReference.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Resources\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.deps.json
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Resources\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Resources\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\UNINDAD D\PROYECTOS BASE\API REST\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Resources\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.deps.json
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Resources\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Resources\bin\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.AssemblyInfoInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.AssemblyInfo.cs
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.csproj.CoreCompileInputs.cache
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.dll
+C:\Users\PILLACA\Documents\UNINDAD D\MY GITHUB\PROYECTO-BASE-NET-CORE-API\API REST\Infraestructure.Crosscutting.Resources\obj\Debug\netcoreapp3.1\Infraestructure.Crosscutting.Resources.pdb
