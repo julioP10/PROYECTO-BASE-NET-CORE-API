@@ -5,9 +5,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="StoredProcedure\**" />
+    <Compile Remove="Views\**" />
+    <EmbeddedResource Remove="StoredProcedure\**" />
+    <EmbeddedResource Remove="Views\**" />
+    <None Remove="StoredProcedure\**" />
+    <None Remove="Views\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Scripts\" />
-    <Folder Include="StoredProcedure\" />
-    <Folder Include="Views\" />
   </ItemGroup>
 
   <ItemGroup>
